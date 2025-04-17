@@ -4,3 +4,4 @@ Nella seguente repository sono contenuti i link a tutte le repository relative a
 - [pcd-lab01](https://github.com/MatteoZacca/lab-01.git)
 - [pcd-lab03](https://github.com/MatteoZacca/PCD-Lab_03.git)
 - [pcd-lab04](https://github.com/MatteoZacca/lab-04.git)
+- [pcd-lab06](https://github.com/MatteoZacca/lab-06.git)
